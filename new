@@ -1,0 +1,3 @@
+# welcome message
+message = "Welcome!"
+print(message) 
