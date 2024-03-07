@@ -1,3 +1,6 @@
 # welcome message
 message = "Welcome!"
 print(message) 
+# getting username
+name = input("Please enter ur name: ")
+print(name)
