@@ -4,3 +4,7 @@ print(message)
 # getting username
 name = input("Please enter ur name: ")
 print(name)
+# getting user password
+password = input("Please enter your password: ")
+print(password)
+print(f"Dear {name},{message}! Your password is {password}")
